@@ -1,0 +1,7 @@
+*.pyc
+__pycache__
+word_vectors
+models
+documents
+test_documents
+deeptagger.tar.gz
